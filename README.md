@@ -1,11 +1,15 @@
-# Saletta
+# meet.yafb.net
 
+A mnemonic link for a recurring meeting.
 
+## Usage
 
-## Shorturls
+Visit [meet.yafb.net](https://meet.yafb.net) to join the meeting.
 
-```shell
-curl -i "https://git.io" \
-     -d "url=https://francescobianco.github.io/saletta/saletta" \
-     -d "code=saletta
-```
+## Development
+
+Change meeting link in `index.html`.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
